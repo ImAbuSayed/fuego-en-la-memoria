@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego en la memoria
+
+This log tracks the cryptographic history and versioning for the song **Fuego en la memoria** (fuego-en-la-memoria).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:03:11.310727 | `v1` | `181c3d7498b0518d859a8463f1322614b35d60eb43542907109d611d690b3ab8` | `068361881809107fc306f548ecd6b5ded42c0a8d78817dafa45d5e6fae86b361` | `2026-06-18_fuego-en-la-memoria-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

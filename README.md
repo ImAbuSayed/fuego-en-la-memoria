@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-en-la-memoria/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Fuego en la memoria](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-la-memoria/) |
+| **Get License** | [Music Rights & Licensing for Fuego en la memoria](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-la-memoria/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `181c3d7498b0518d859a8463f1322614b35d60eb43542907109d611d690b3ab8` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
