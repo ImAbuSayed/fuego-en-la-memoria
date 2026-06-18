@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-en-la-memoria/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Fuego en la memoria](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-la-memoria/) |
+| **Get License** | [Official Music Licensing for Fuego en la memoria](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-la-memoria/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus besos me dejaron fuego en la memoria,
+> una noche entera y cambió la historia.
+> Nena, tú tienes ese flow que me obsesiona,
+> la reina de la disco, la que siempre corona.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
